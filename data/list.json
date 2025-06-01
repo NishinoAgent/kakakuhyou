@@ -81,7 +81,7 @@
   { "num": 80, "cnt": 2, "price": 300 },
   { "num": 81, "cnt": 26, "price": 2300 },
   { "num": 82, "cnt": 7, "price": 900 },
-  { "num": 83, "cnt": -, "price": 500 },
+  { "num": 83, "cnt": 00, "price": 500 },
   { "num": 84, "cnt": 55, "price": 2700 },
   { "num": 85, "cnt": 11, "price": 900 },
   { "num": 86, "cnt": 2, "price": 300 },
